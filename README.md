@@ -1,5 +1,5 @@
 # Previsao-do-Tempo
-Este projeto foi desenvolvido durante o Programador em Imersão 72h do Rodolfo Mori.
+Este projeto foi desenvolvido com o apoio da DevClub durante a imersão: Programador em Imersão 72h do Rodolfo Mori.
 
 Descrição do Projeto
 
