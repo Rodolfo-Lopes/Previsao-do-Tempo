@@ -2,6 +2,7 @@
 Este projeto foi desenvolvido durante o Programador em Imersão 72h do Rodolfo Mori.
 
 Descrição do Projeto
+
 A ideia era criar uma interface simples e eficiente para que o usuário possa rapidamente obter informações sobre o clima de uma cidade específica.
 
 Funcionalidades do Projeto
